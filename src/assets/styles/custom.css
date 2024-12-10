@@ -1,0 +1,15 @@
+body,
+html {
+  min-height: 100vh;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page-wrapper {
+  padding-top: 100px;
+}
